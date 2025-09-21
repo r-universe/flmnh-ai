@@ -1,8 +1,26 @@
 [
   {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["yersinia", "odin.dust"],
+    "from": "yersinia"
+  },
+  {
     "package": "hipergator",
     "url": "https://github.com/flmnh-ai/hipergator",
     "via": ["petrographer"],
     "from": "petrographer"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["yersinia", "odin.dust"],
+    "from": "yersinia"
+  },
+  {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["yersinia"],
+    "from": "yersinia"
   }
 ]

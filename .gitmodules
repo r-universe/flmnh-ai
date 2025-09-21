@@ -2,12 +2,24 @@
 	path = .registry
 	url = https://github.com/flmnh-ai/flmnh-ai.r-universe.dev
 	branch = HEAD
+[submodule "dust"]
+	path = dust
+	url = https://github.com/mrc-ide/dust
+	registered = false
 [submodule "hipergator"]
 	path = hipergator
 	url = https://github.com/flmnh-ai/hipergator
 [submodule "malthus"]
 	path = malthus
 	url = https://github.com/nick-gauthier/malthus
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+	registered = false
+[submodule "odin.dust"]
+	path = odin.dust
+	url = https://github.com/mrc-ide/odin.dust
+	registered = false
 [submodule "petrographer"]
 	path = petrographer
 	url = https://github.com/flmnh-ai/petrographer
