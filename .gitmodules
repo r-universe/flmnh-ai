@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/flmnh-ai/flmnh-ai.r-universe.dev
 	branch = HEAD
+[submodule "hipergator"]
+	path = hipergator
+	url = https://github.com/flmnh-ai/hipergator
+[submodule "malthus"]
+	path = malthus
+	url = https://github.com/nick-gauthier/malthus
+[submodule "petrographer"]
+	path = petrographer
+	url = https://github.com/flmnh-ai/petrographer
+[submodule "tidyEOF"]
+	path = tidyEOF
+	url = https://github.com/nick-gauthier/tidyEOF
+[submodule "tidyvec"]
+	path = tidyvec
+	url = https://github.com/flmnh-ai/tidyvec
+[submodule "yersinia"]
+	path = yersinia
+	url = https://github.com/flmnh-ai/yersinia
