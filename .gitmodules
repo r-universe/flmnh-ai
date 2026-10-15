@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/flmnh-ai/flmnh-ai.r-universe.dev
 	branch = HEAD
+[submodule "globalhex"]
+	path = globalhex
+	url = https://github.com/flmnh-ai/globalhex
 [submodule "hipergator"]
 	path = hipergator
 	url = https://github.com/flmnh-ai/hipergator
